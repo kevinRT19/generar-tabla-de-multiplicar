@@ -5,7 +5,7 @@
     "name": "ejrcicios-js",
     "version": "1.0.0",
     "description": "tabla",
-    "main": "tabla.js",
+    "main": "app.js",
     "author": "kevinrt",
     "license": "ISC",
     "dependencies": {
