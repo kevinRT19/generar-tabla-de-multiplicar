@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "node app.js"
+    },
+    "name": "ejrcicios-js",
+    "version": "1.0.0",
+    "description": "tabla",
+    "main": "tabla.js",
+    "author": "kevinrt",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2"
+    }
+}
